@@ -11,9 +11,73 @@
 
 
 /* Yura */
-
-
-
+a{
+    font-family: Outfit;
+}
+p{
+    font-family: Outfit;
+}
+h2{
+    font-family: Outfit;
+}
+h3{
+    font-family: Outfit;
+}
+.maincard{
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+}
+.maincardtext{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom:  2px solid #E8E7EE;
+}
+.maincardtext>h2{
+    font-size: 3.5vw;
+}
+.maincardtext>p{
+    font-size: 2vw;
+    font-family: BeVietnamPro;
+}
+.maincards{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    text-align: center;
+    border: 2px solid #E8E7EE;
+    padding: 3% 5%;
+}
+.card>p{
+    font-size: 1vw;
+    color: #454C5F;
+    font-family: BeVietnamPro;
+}
+.maincard>a{
+    background-color: #F6F6F9;
+    padding: 1% 47%;
+    color: #1C2436;
+    text-decoration: none;
+}
+.maincardimgs1{
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+}
+.maincardimgs1>p{
+    color: #454C5F;
+}
+.maincardimgs1>h2{
+    font-size: 2vw;
+}
+.maincardimgs1>img{
+    padding: 5%;
+}
 
 /* ZZZahar */
 
